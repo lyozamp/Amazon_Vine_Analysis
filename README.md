@@ -24,6 +24,8 @@ The dataset appears a little on the small side for Big Data with 145,431 reviews
 
 Unfortunately, due to the applied criteria, it significantly diminished the sample size. In the remainder 1,685 reviews, there were no reviews that were paid for by the Vine program.
 
+![alt text]
+
 All 1,656 remaining reviews are unpaid Vine with 0 paid Vine.
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
@@ -31,6 +33,8 @@ All 1,656 remaining reviews are unpaid Vine with 0 paid Vine.
 As for 5-star unpaid Vine reviews, there were 631 reviews. Attempting to divide by zero, the code would result in a zero division error. Therefore, there are also 0 paid Vine with 5-star reviews.
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+![alt text]
 
 The percentage of unpaid, 5-star Vine reviews resulted in 37.4%, while the percentage of paid, 5-star Vine reviews would be 0%.
 
