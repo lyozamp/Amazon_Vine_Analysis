@@ -34,7 +34,7 @@ As for 5-star unpaid Vine reviews, there were 631 reviews. Attempting to divide 
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-![alt text]
+![alt text](https://github.com/lyozamp/Amazon_Vine_Analysis/blob/main/Images/Percent%205%20star%20reviews.png)
 
 The percentage of unpaid, 5-star Vine reviews resulted in 37.4%, while the percentage of paid, 5-star Vine reviews would be 0%.
 
