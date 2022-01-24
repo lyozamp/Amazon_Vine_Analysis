@@ -24,7 +24,7 @@ The dataset appears a little on the small side for Big Data with 145,431 reviews
 
 Unfortunately, due to the applied criteria, it significantly diminished the sample size. In the remainder 1,685 reviews, there were no reviews that were paid for by the Vine program.
 
-![alt text] (https://github.com/lyozamp/Amazon_Vine_Analysis/blob/main/Images/Image1.png)
+![alt text](https://github.com/lyozamp/Amazon_Vine_Analysis/blob/main/Images/Image1.png)
 
 All 1,656 remaining reviews are unpaid Vine with 0 paid Vine.
 
